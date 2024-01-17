@@ -22,10 +22,11 @@ Os resultados do estudo mostram que as cidades com os maiores índices de violê
   
 O estudo também mostra que os crimes mais comuns nas cidades da grande BH são:
 
-Homicídio
-Furto
-Roubo
-Estupro
+- Homicídio
+- Furto
+- Roubo
+- Estupro
+
 # Conclusão
 
 Este estudo é um exemplo de como usar as bibliotecas `pandas`, `geopanda`, `shapely.geometry` e `folium` para explorar e visualizar dados de violência urbana. O estudo é útil para entender os padrões de violência nas cidades da grande BH.
